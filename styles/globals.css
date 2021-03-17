@@ -6,10 +6,6 @@
 *{
     font-family: sans-serif;
 }
-html,
-body{
-    @apply h-screen;
-}
 body{
     background:#9259f5;
 }

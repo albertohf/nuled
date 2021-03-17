@@ -7,7 +7,7 @@ import React from 'react'
 
 const home = () => {
   return (
-    <div className="container m-w-full">
+    <React.Fragment>
       <Head>
         <title>Nuled</title>
         <link rel="icon" href="" />
@@ -15,7 +15,7 @@ const home = () => {
       <Header />
       <Section />
       <Footer />
-    </div>
+    </React.Fragment>
   )
 }
 

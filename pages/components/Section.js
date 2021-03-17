@@ -15,7 +15,7 @@ const Section = () => {
                 <p className="p-6 flex-1">Buscar uma imagem ou criar uma nulled</p>
             </div>
             <div className="flex justify-between">
-                <div className=" pt-8 px-5 lg:ml-60">
+                <div className=" pt-8 px-5">
                     <figure className="bg-purple-600 rounded-xl p-8 md:p-0">
                         <img className="pt-6 w-120 h-180 md:h-auto md:rounded-none rounded-full mx-auto" src="/undraw_Navigation_re_wxx4.svg" alt="" width="220" height="280" />
                         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
@@ -53,7 +53,7 @@ const Section = () => {
                         </div>
                     </figure >
                 </div>
-                <div className="pt-8 px-5 lg:mr-60">
+                <div className="pt-8 px-5">
                     <figure className="bg-purple-600 rounded-xl p-8 md:p-0">
                         <img className="pt-6 w-120 h-180 md:h-auto md:rounded-none rounded-full mx-auto" src="/undraw_All_the_data_re_hh4w.svg" alt="" width="220" height="280" />
                         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
