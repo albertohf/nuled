@@ -6,12 +6,13 @@
 *{
     font-family: sans-serif;
 }
-
 html,
 body{
     @apply h-screen;
 }
-
 body{
     background:#9259f5;
+}
+#__next{
+    @apply h-screen flex flex-col;
 }
