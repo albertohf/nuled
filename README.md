@@ -1,34 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
+
+[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+
+![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
+
 
 ## Getting Started
 
-First, run the development server:
+Choose one of the following options to get started:
+* [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
+* Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
+* Fork the repo
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Using the Template
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The template is just a HTML file using a full CDN hosted Tailwind CSS file.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+To get the best out of Tailwind CSS, you need to really start customising it.
+Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Sites created using this template
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* [Pilotmail.io](https://pilotmail.io)
+* [Routepath.app](https://routepath.app)
+* [LedgerSight.com](https://ledgersight.com)
+* [AnonAddy.com](https://anonaddy.com)
+* [MentorCV.com](https://mentorcv.com)
+* [MakerMetrics.co](https://makermetrics.co)
+* [Nodewood.com](https://nodewood.com)
+* [X-Wing AI](https://xwing.app)
 
-## Learn More
+## Bugs and Issues
 
-To learn more about Next.js, take a look at the following resources:
+Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Landing-Page/issues/new) here on GitHub.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Creator
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
 
-## Deploy on Vercel
+* https://twitter.com/tailwindtoolbox
+* https://twitter.com/amritnagi
+* https://github.com/tailwindtoolbox
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Image Attribution
+
+[Hero vector created by freepik.com](https://www.freepik.com/free-vector/isometric-education-illustration_3940819.htm#page=1&query=isometric%20plane&position=1)
+
+Free for personal and commercial purpose with attribution
+
+## Copyright and License
+
+Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.

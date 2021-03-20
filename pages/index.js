@@ -1,22 +1,20 @@
 import Head from 'next/head'
-import Header from '../pages/components/Header'
-import Section from '../pages/components/Section'
-import Footer from '../pages/components/Footer'
-import React from 'react'
+import Header from './components/Header'
+import Footer from './components/Footer'
+import Section from './components/Section'
 
-
-const home = () => {
+const Home = () => {
   return (
-    <React.Fragment>
+    <div className="leading-normal tracking-normal text-white gradient">
       <Head>
-        <title>Nuled</title>
-        <link rel="icon" href="" />
+        <title>Create Next App</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
       <Section />
       <Footer />
-    </React.Fragment>
+    </div>
   )
 }
 
-export default home
+module.exports = Home

@@ -2,13 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
 
-*{
-    font-family: sans-serif;
-}
-body{
-    background:#9259f5;
-}
-#__next{
-    @apply h-screen flex flex-col;
+.gradient {
+  background: linear-gradient(to left, #9d50bb, #6e48aa);
+
 }
