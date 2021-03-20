@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className="leading-normal tracking-normal text-white gradient">
       <Head>
-        <title>Create Next App</title>
+        <title>Nuled - Marketing Visual</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
